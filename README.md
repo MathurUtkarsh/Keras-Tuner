@@ -1,6 +1,6 @@
-# Keras-Tuner :)
+# Keras Tuner :)
 
-# Hyper Parameter tuning using Keras-tuner
+## Hyper Parameter tuning using Keras-tuner
 
 
 ### Install the project
